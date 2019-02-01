@@ -23,7 +23,7 @@ function  chk_firewall（） {
 function  install_sea（） {
 	cd / home / MyCloud
 	＃下载安装包6.2.9 64bit
-	wget http://p56eu8mfv.bkt.clouddn.com/seafile-pro-server_6.2.9_x86-64.tar.gz
+	wget https://download.seafile.com/seafhttp/files/c1e37829-88d9-4d13-a833-1b0f35cce282/seafile-pro-server_6.3.11_x86-64.tar.gz
 	＃解压
 	tar -zxvf seafile-pro-server_6.2.9_x86-64.tar.gz	
 	mkdir已安装
